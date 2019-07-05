@@ -7,11 +7,11 @@ p{
     background-color: blue;
 }
 
-#parrafoTest{
+.parrafoTest{
     background-color: yellow;
 }
 
-#parrafoVersion2{
+.parrafoV2{
     background-color: chartreuse;
     text-align: justify;
 }
