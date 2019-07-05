@@ -10,3 +10,8 @@ p{
 #parrafoTest{
     background-color: yellow;
 }
+
+#parrafoVersion2{
+    background-color: chartreuse;
+    text-align: justify;
+}
