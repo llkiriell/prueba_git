@@ -6,6 +6,14 @@ body{
 p{
     background-color: blue;
 }
+/*Cambio hecho en rama dev*/
+#parrafoDev{
+    background-color: greenyellow;
+}
+
+#parrafoMaster{
+    background-color: blueviolet;
+}
 
 .parrafoTest{
     background-color: yellow;
