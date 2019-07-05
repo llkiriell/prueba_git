@@ -1,0 +1,1 @@
+console.log("Manejador de funcionalidades de Foro");
