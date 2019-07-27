@@ -1,0 +1,6 @@
+-- # Vectores asociativos
+--- # Bloque
+ nombre: Pepe López
+ edad: 33
+--- # En  línea
+ {nombre: Pepe López, edad: 33}
