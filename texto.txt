@@ -1,1 +1,2 @@
 Este es un texto sin formato.
+Esta es otra linea.
