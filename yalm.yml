@@ -3,4 +3,4 @@
  nombre: Pepe López
  edad: 33
 --- # En  línea
- {nombre: Pepe López, edad: 33}
+ {nombre: Pepe López, edad: 33, altura: 4}
